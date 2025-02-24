@@ -1,2 +1,6 @@
-# WarRoom
-技术笔记、性能对比测试报告、架构设计手绘图（用Excalidraw绘制） 
+# Algo-Core
+- LeetCode-Solutions **按周分类提交**
+  - Week1 2.26-3.4
+  - Week2
+- System-Design **系统设计文档+代码**
+- Interview-Records  **面试手撕代码存档**
